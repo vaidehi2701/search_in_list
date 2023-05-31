@@ -1,4 +1,4 @@
-package com.search_in_list
+package com.example.ml_demo
 
 import io.flutter.embedding.android.FlutterActivity
 
