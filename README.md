@@ -1,16 +1,16 @@
-# search_in_list
+# Search Functionality in Animated ListView in Flutter
 
-A new Flutter application.
+Basic Search functionality in ListView + animated ListView using Animated Opacity and AnimatedPadding Widget.
 
-## Getting Started
+### ⚡&ensp;Social Media
 
-This project is a starting point for a Flutter application.
+[<img align="center" alt="DevDiariesWithVee | YouTube" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media" />](https://www.youtube.com/DevDiariesWithVee?sub_confirmation=1)&ensp;YouTube: [@DevDiariesWithVee](https://www.youtube.com/DevDiariesWithVee?sub_confirmation=1 "YouTube DevDiariesWithVee")
 
-A few resources to get you started if this is your first Flutter project:
+[<img align="center" alt="DevDiariesWithVee | Instagram" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Finstagram.png?alt=media" />](https://instagram.com/devdiaries_with_vee)&ensp;Instagram: [@DevDiariesWithVee](https://instagram.com/devdiaries_with_vee "Instagram DevDiariesWithVee")
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[<img align="center" alt="Vaidehi shah | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />](https://linkedin.com/in/vaidehi-shah-a2102217a)&ensp;LinkedIn: [@Vaidehi Shah](https://linkedin.com/in/vaidehi-shah-a2102217a "LinkedIn Vaidehi Shah")
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<a href="https://www.buymeacoffee.com/vaidehishah" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+
